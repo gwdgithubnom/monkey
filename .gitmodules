@@ -1,0 +1,3 @@
+[submodule "monkey-clever"]
+	path = monkey-clever
+	url = git@github.com:gwdgithubnom/monkey-clever.git
