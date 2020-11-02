@@ -1,3 +1,6 @@
 [submodule "monkey-clever"]
 	path = monkey-clever
 	url = git@github.com:gwdgithubnom/monkey-clever.git
+[submodule "LeetCode-Go"]
+	path = LeetCode-Go
+	url = git@github.com:agodomen/LeetCode-Go.git
